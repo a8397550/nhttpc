@@ -1,10 +1,14 @@
 {
   "name": "nhttpc",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "http connect tool",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/a8397550/nhttpc.git"
   },
   "author": "lijunyang",
   "license": "none",
